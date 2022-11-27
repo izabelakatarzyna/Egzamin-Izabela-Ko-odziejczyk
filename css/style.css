@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(235, 217, 230) !important;
+}
+
+.nav {
+  background-color: rgb(95, 9, 85);
+  margin: 40px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: aliceblue;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.nav .nav-ul {
+  color: white;
+}
+.nav .nav-ul .nav-ul-li {
+  display: inline-block;
+  margin: 5px;
+}
+.nav .nav-ul .nav-ul-li a {
+  color: white;
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
