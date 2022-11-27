@@ -2,27 +2,13 @@ body {
   background-color: rgb(235, 217, 230) !important;
 }
 
-.nav {
-  background-color: rgb(95, 9, 85);
-  margin: 40px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: aliceblue;
-  display: flex;
-  flex-direction: row-reverse;
+.mb-3 .form-text {
+  text-align: center !important;
+  color: rgb(45, 10, 45);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-.nav .nav-ul {
-  color: white;
-}
-
-.nav .nav-ul .nav-ul-li {
-  display: inline-block;
-  margin: 5px;
-}
-
-.nav .nav-ul .nav-ul-li a {
-  color: white;
-  text-decoration: none;
-}
-
-/*# sourceMappingURL=style.css.map */
+.btn-primary {
+  background-color: rgb(45, 10, 45) !important;
+  color: white !important;
+}/*# sourceMappingURL=style.css.map */
